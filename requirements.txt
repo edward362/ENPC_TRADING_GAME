@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+wsproto
+httptools
+uvloop
+watchfiles
+python-dotenv
+pyyaml
