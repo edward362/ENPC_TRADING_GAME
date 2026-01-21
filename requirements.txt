@@ -1,11 +1,5 @@
 fastapi
-uvicorn
-wsproto
-httptools
-uvloop
-watchfiles
-python-dotenv
-pyyaml
 uvicorn[standard]==0.30.6
 websockets==12.0
-
+python-dotenv
+pyyaml
